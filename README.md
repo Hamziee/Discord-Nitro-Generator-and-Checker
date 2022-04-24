@@ -41,7 +41,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 
     1.2 Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
+   git clone https://github.com/Hamziee/Discord-Nitro-Generator-and-Checker.git
    ```
 2. Install Python packages
    ```sh
