@@ -1,3 +1,4 @@
+## Discord nitro Generator and Checker
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -36,7 +37,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 ### Installation
 1. Get the files (2 Ways)
   Click on Code, then download zip. Or:
-  
+
   Clone the repo
    ```sh
    git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
