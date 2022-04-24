@@ -34,14 +34,20 @@ It generates and checks discord nitro codes at the same time for maximum efficie
 You need to install Python, that can be done [here](https://www.python.org)
 
 ### Installation
-1. Install Python packages
+1. Get the files (2 Ways)
+  Click on Code, then download zip. Or:
+  
+  Clone the repo
+   ```sh
+   git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
+   ```
+2. Install Python packages
    ```sh
    # Windows:
    py -3 -m pip install -r requirements.txt
    
    # Unix
    python3.8 -m pip install -r requirements.txt
-   ```
    
 #### Or this can be done using android with unrooted Termux
 ```
